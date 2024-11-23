@@ -1,0 +1,4 @@
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\publish\MN57-02.pdb
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\publish\MN57-02.dll.config
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\publish\libSystem.IO.Ports.Native.so
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\publish\MN57-02

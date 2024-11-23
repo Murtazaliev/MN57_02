@@ -1,0 +1,279 @@
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.exe
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.deps.json
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.runtimeconfig.json
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.runtimeconfig.dev.json
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\ref\MN57-02.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.pdb
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\Iot.Device.Bindings.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\System.Device.Gpio.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\System.IO.Ports.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\System.Management.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\UnitsNet.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.csprojAssemblyReference.cache
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.AssemblyInfo.cs
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.csproj.CopyComplete
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Debug\net5.0\ref\MN57-02.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.pdb
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.genruntimeconfig.cache
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.exe
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.deps.json
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.runtimeconfig.json
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.runtimeconfig.dev.json
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\ref\MN57-02.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.pdb
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\Iot.Device.Bindings.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.Device.Gpio.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.IO.Ports.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.Management.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\UnitsNet.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.AssemblyInfoInputs.cache
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.AssemblyInfo.cs
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.csproj.CoreCompileInputs.cache
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.csproj.CopyComplete
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\ref\MN57-02.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.pdb
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.genruntimeconfig.cache
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.exe
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.deps.json
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.runtimeconfig.json
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.runtimeconfig.dev.json
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\ref\MN57-02.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.pdb
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\Iot.Device.Bindings.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.Device.Gpio.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.IO.Ports.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.Management.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\UnitsNet.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.csprojAssemblyReference.cache
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.AssemblyInfo.cs
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.csproj.CopyComplete
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\ref\MN57-02.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.pdb
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.genruntimeconfig.cache
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.exe
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.dll.config
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.deps.json
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.runtimeconfig.json
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.runtimeconfig.dev.json
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\ref\MN57-02.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.pdb
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\Iot.Device.Bindings.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.Device.Gpio.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.IO.Ports.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.Management.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\UnitsNet.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.AssemblyInfo.cs
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.csproj.CopyComplete
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\ref\MN57-02.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.pdb
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.genruntimeconfig.cache
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.exe
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.dll.config
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.deps.json
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.runtimeconfig.json
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.runtimeconfig.dev.json
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\ref\MN57-02.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.pdb
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\Iot.Device.Bindings.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\System.Device.Gpio.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\System.IO.Ports.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\System.Management.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\UnitsNet.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.csprojAssemblyReference.cache
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.AssemblyInfo.cs
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.csproj.CopyComplete
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Debug\net5.0\ref\MN57-02.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.pdb
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.genruntimeconfig.cache
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.exe
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.dll.config
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.deps.json
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.runtimeconfig.json
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.runtimeconfig.dev.json
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\ref\MN57-02.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.pdb
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\Iot.Device.Bindings.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\System.CodeDom.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\System.Device.Gpio.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\System.IO.Ports.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\System.Management.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\UnitsNet.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\work\MN57-02\MN57-02\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\work\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.csprojAssemblyReference.cache
+D:\work\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.AssemblyInfoInputs.cache
+D:\work\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.AssemblyInfo.cs
+D:\work\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.csproj.CoreCompileInputs.cache
+D:\work\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.csproj.CopyComplete
+D:\work\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.dll
+D:\work\MN57-02\MN57-02\obj\Debug\net5.0\ref\MN57-02.dll
+D:\work\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.pdb
+D:\work\MN57-02\MN57-02\obj\Debug\net5.0\MN57-02.genruntimeconfig.cache
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\MN57-02.exe
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\MN57-02.dll.config
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\MN57-02.deps.json
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\MN57-02.runtimeconfig.json
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\MN57-02.runtimeconfig.dev.json
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\MN57-02.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\MN57-02.pdb
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\Iot.Device.Bindings.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\System.Device.Gpio.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\System.IO.Ports.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\System.Management.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\UnitsNet.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Debug\net5.0\MN57-02.csproj.AssemblyReference.cache
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Debug\net5.0\MN57-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Debug\net5.0\MN57-02.AssemblyInfoInputs.cache
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Debug\net5.0\MN57-02.AssemblyInfo.cs
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Debug\net5.0\MN57-02.csproj.CoreCompileInputs.cache
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Debug\net5.0\MN57-02.csproj.CopyComplete
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Debug\net5.0\MN57-02.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Debug\net5.0\refint\MN57-02.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Debug\net5.0\MN57-02.pdb
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Debug\net5.0\MN57-02.genruntimeconfig.cache
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Debug\net5.0\ref\MN57-02.dll

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MN57-02</id>
+    <version>1.0.0</version>
+    <authors>MN57-02</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Iot.Device.Bindings" version="1.1.0" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.runtimeconfig.json" target="lib\net5.0\MN57-02.runtimeconfig.json" />
+    <file src="C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Debug\net5.0\MN57-02.dll" target="lib\net5.0\MN57-02.dll" />
+  </files>
+</package>

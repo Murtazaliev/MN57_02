@@ -1,0 +1,1675 @@
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.deps.json
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.runtimeconfig.json
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.runtimeconfig.dev.json
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\ref\MN57-02.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.pdb
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Iot.Device.Bindings.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.SystemEvents.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.CodeDom.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Device.Gpio.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.Common.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Ports.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Management.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\UnitsNet.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Ports.Native.so
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.CSharp.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.VisualBasic.Core.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.VisualBasic.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.Primitives.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.Registry.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.AppContext.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Buffers.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Concurrent.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Immutable.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.NonGeneric.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Specialized.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.Annotations.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.DataAnnotations.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.Primitives.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.TypeConverter.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Configuration.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Console.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Core.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.Common.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.DataSetExtensions.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Contracts.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Debug.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Process.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.StackTrace.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Tools.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.TraceSource.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Tracing.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.Primitives.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Dynamic.Runtime.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Formats.Asn1.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.Calendars.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.Extensions.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.Brotli.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.FileSystem.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.ZipFile.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.AccessControl.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.Primitives.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.Watcher.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.IsolatedStorage.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.MemoryMappedFiles.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Pipes.AccessControl.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Pipes.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Expressions.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Parallel.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Queryable.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Memory.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Http.Json.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Http.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.HttpListener.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Mail.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.NameResolution.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.NetworkInformation.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Ping.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Primitives.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Requests.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Security.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.ServicePoint.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Sockets.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebClient.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebHeaderCollection.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebProxy.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebSockets.Client.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebSockets.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Numerics.Vectors.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Numerics.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ObjectModel.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.DataContractSerialization.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Uri.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Xml.Linq.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Xml.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.DispatchProxy.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.Lightweight.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Extensions.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Metadata.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Primitives.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.TypeExtensions.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.Reader.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.ResourceManager.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.Writer.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Extensions.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Handles.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.InteropServices.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Intrinsics.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Loader.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Numerics.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Formatters.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Json.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Primitives.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Xml.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.AccessControl.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Claims.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Algorithms.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Cng.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Csp.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Encoding.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Primitives.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Principal.Windows.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Principal.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.SecureString.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ServiceModel.Web.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ServiceProcess.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.CodePages.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.Extensions.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encodings.Web.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Json.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.RegularExpressions.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Channels.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Overlapped.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Dataflow.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Extensions.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Parallel.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Thread.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.ThreadPool.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Timer.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Transactions.Local.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Transactions.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ValueTuple.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Web.HttpUtility.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Web.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Windows.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.Linq.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.ReaderWriter.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.Serialization.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XDocument.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XPath.XDocument.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XPath.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XmlDocument.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XmlSerializer.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\WindowsBase.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\mscorlib.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\netstandard.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.CoreLib.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\createdump
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Compression.Native.a
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Compression.Native.so
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Native.a
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Native.so
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Net.Security.Native.a
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Net.Security.Native.so
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Security.Cryptography.Native.OpenSsl.a
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Security.Cryptography.Native.OpenSsl.so
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libclrjit.so
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libcoreclr.so
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libcoreclrtraceptprovider.so
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libdbgshim.so
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libhostfxr.so
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libhostpolicy.so
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libmscordaccore.so
+C:\Users\Murad\source\repos\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libmscordbi.so
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.AssemblyInfo.cs
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.csproj.CopyComplete
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\ref\MN57-02.dll
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.pdb
+C:\Users\Murad\source\repos\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.genruntimeconfig.cache
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.deps.json
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.runtimeconfig.json
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.runtimeconfig.dev.json
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\ref\MN57-02.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.pdb
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Iot.Device.Bindings.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.SystemEvents.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.CodeDom.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Device.Gpio.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.Common.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Ports.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Management.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\UnitsNet.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Ports.Native.so
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.CSharp.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.VisualBasic.Core.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.VisualBasic.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.Primitives.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.Registry.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.AppContext.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Buffers.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Concurrent.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Immutable.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.NonGeneric.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Specialized.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.Annotations.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.DataAnnotations.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.EventBasedAsync.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.Primitives.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.TypeConverter.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Configuration.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Console.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Core.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.Common.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.DataSetExtensions.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Contracts.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Debug.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Process.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.StackTrace.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Tools.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.TraceSource.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Tracing.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.Primitives.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Dynamic.Runtime.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Formats.Asn1.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.Calendars.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.Extensions.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.Brotli.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.FileSystem.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.ZipFile.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.AccessControl.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.DriveInfo.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.Primitives.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.Watcher.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.IsolatedStorage.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.MemoryMappedFiles.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Pipes.AccessControl.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Pipes.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.UnmanagedMemoryStream.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Expressions.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Parallel.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Queryable.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Memory.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Http.Json.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Http.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.HttpListener.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Mail.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.NameResolution.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.NetworkInformation.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Ping.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Primitives.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Requests.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Security.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.ServicePoint.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Sockets.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebClient.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebHeaderCollection.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebProxy.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebSockets.Client.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebSockets.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Numerics.Vectors.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Numerics.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ObjectModel.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.DataContractSerialization.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Uri.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Xml.Linq.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Xml.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.DispatchProxy.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.ILGeneration.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.Lightweight.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Extensions.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Metadata.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Primitives.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.TypeExtensions.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.Reader.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.ResourceManager.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.Writer.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Extensions.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Handles.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.InteropServices.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Intrinsics.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Loader.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Numerics.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Formatters.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Json.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Primitives.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Xml.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.AccessControl.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Claims.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Algorithms.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Cng.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Csp.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Encoding.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.OpenSsl.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Primitives.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Principal.Windows.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Principal.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.SecureString.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ServiceModel.Web.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ServiceProcess.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.CodePages.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.Extensions.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encodings.Web.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Json.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.RegularExpressions.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Channels.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Overlapped.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Dataflow.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Extensions.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Parallel.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Thread.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.ThreadPool.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Timer.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Transactions.Local.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Transactions.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ValueTuple.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Web.HttpUtility.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Web.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Windows.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.Linq.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.ReaderWriter.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.Serialization.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XDocument.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XPath.XDocument.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XPath.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XmlDocument.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XmlSerializer.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\WindowsBase.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\mscorlib.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\netstandard.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.CoreLib.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\createdump
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Compression.Native.a
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Compression.Native.so
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Native.a
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Native.so
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Net.Security.Native.a
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Net.Security.Native.so
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Security.Cryptography.Native.OpenSsl.a
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Security.Cryptography.Native.OpenSsl.so
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libclrjit.so
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libcoreclr.so
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libcoreclrtraceptprovider.so
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libdbgshim.so
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libhostfxr.so
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libhostpolicy.so
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libmscordaccore.so
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libmscordbi.so
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.AssemblyInfoInputs.cache
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.AssemblyInfo.cs
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.csproj.CoreCompileInputs.cache
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.csproj.CopyComplete
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\ref\MN57-02.dll
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.pdb
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.genruntimeconfig.cache
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.deps.json
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.runtimeconfig.json
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.runtimeconfig.dev.json
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\ref\MN57-02.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.pdb
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Iot.Device.Bindings.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.SystemEvents.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.CodeDom.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Device.Gpio.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.Common.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Ports.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Management.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\UnitsNet.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Ports.Native.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.CSharp.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.VisualBasic.Core.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.VisualBasic.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.Primitives.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.Registry.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.AppContext.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Buffers.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Concurrent.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Immutable.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.NonGeneric.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Specialized.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.Annotations.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.DataAnnotations.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.Primitives.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.TypeConverter.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Configuration.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Console.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Core.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.Common.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.DataSetExtensions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Contracts.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Debug.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Process.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.StackTrace.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Tools.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.TraceSource.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Tracing.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.Primitives.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Dynamic.Runtime.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Formats.Asn1.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.Calendars.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.Extensions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.Brotli.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.FileSystem.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.ZipFile.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.AccessControl.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.Primitives.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.Watcher.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.IsolatedStorage.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.MemoryMappedFiles.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Pipes.AccessControl.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Pipes.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Expressions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Parallel.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Queryable.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Memory.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Http.Json.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Http.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.HttpListener.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Mail.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.NameResolution.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.NetworkInformation.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Ping.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Primitives.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Requests.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Security.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.ServicePoint.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Sockets.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebClient.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebHeaderCollection.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebProxy.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebSockets.Client.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebSockets.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Numerics.Vectors.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Numerics.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ObjectModel.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.DataContractSerialization.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Uri.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Xml.Linq.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Xml.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.DispatchProxy.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.Lightweight.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Extensions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Metadata.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Primitives.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.TypeExtensions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.Reader.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.ResourceManager.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.Writer.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Extensions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Handles.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.InteropServices.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Intrinsics.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Loader.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Numerics.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Formatters.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Json.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Primitives.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Xml.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.AccessControl.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Claims.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Algorithms.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Cng.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Csp.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Encoding.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Primitives.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Principal.Windows.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Principal.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.SecureString.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ServiceModel.Web.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ServiceProcess.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.CodePages.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.Extensions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encodings.Web.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Json.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.RegularExpressions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Channels.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Overlapped.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Dataflow.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Extensions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Parallel.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Thread.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.ThreadPool.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Timer.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Transactions.Local.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Transactions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ValueTuple.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Web.HttpUtility.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Web.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Windows.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.Linq.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.ReaderWriter.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.Serialization.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XDocument.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XPath.XDocument.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XPath.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XmlDocument.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XmlSerializer.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\WindowsBase.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\mscorlib.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\netstandard.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.CoreLib.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\createdump
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Compression.Native.a
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Compression.Native.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Native.a
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Native.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Net.Security.Native.a
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Net.Security.Native.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Security.Cryptography.Native.OpenSsl.a
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Security.Cryptography.Native.OpenSsl.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libclrjit.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libcoreclr.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libcoreclrtraceptprovider.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libdbgshim.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libhostfxr.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libhostpolicy.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libmscordaccore.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libmscordbi.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.AssemblyInfo.cs
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.csproj.CopyComplete
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\ref\MN57-02.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.pdb
+C:\Users\Murad\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.genruntimeconfig.cache
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.deps.json
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.runtimeconfig.json
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.runtimeconfig.dev.json
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\ref\MN57-02.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.pdb
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Iot.Device.Bindings.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.CodeDom.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Device.Gpio.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.Common.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Ports.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Management.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\UnitsNet.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Ports.Native.so
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.CSharp.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.VisualBasic.Core.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.VisualBasic.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.Registry.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.AppContext.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Buffers.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Concurrent.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Immutable.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.NonGeneric.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Specialized.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.DataAnnotations.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.EventBasedAsync.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.Primitives.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.TypeConverter.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Configuration.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Console.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Core.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.Common.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.DataSetExtensions.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Contracts.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Debug.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Process.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Tools.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.TraceSource.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Tracing.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.Primitives.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Dynamic.Runtime.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Formats.Asn1.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.Extensions.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.Brotli.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.FileSystem.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.AccessControl.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.DriveInfo.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.Watcher.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.IsolatedStorage.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.MemoryMappedFiles.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Pipes.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.UnmanagedMemoryStream.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Expressions.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Parallel.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Queryable.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Memory.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Http.Json.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Http.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.HttpListener.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Mail.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.NameResolution.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.NetworkInformation.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Ping.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Primitives.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Requests.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Security.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.ServicePoint.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Sockets.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebClient.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebHeaderCollection.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebProxy.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebSockets.Client.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebSockets.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Numerics.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ObjectModel.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.DataContractSerialization.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Uri.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Xml.Linq.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Xml.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.DispatchProxy.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.ILGeneration.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.Lightweight.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Extensions.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Primitives.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.TypeExtensions.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.Reader.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.ResourceManager.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.Writer.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Extensions.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Handles.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.InteropServices.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Intrinsics.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Loader.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Numerics.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Formatters.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Json.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Primitives.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Xml.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.AccessControl.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Claims.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Cng.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Csp.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.OpenSsl.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Principal.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.SecureString.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ServiceModel.Web.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ServiceProcess.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.Extensions.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Json.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.RegularExpressions.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Channels.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Overlapped.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Dataflow.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Parallel.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Thread.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.ThreadPool.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Timer.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Transactions.Local.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Transactions.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ValueTuple.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Web.HttpUtility.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Web.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Windows.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.Linq.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.Serialization.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XDocument.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XPath.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XmlSerializer.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\WindowsBase.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\mscorlib.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\netstandard.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.CoreLib.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\createdump
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Compression.Native.a
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Compression.Native.so
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Native.a
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Native.so
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Net.Security.Native.a
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Net.Security.Native.so
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Security.Cryptography.Native.OpenSsl.a
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Security.Cryptography.Native.OpenSsl.so
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libclrjit.so
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libcoreclr.so
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libcoreclrtraceptprovider.so
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libdbgshim.so
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libhostfxr.so
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libhostpolicy.so
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libmscordaccore.so
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libmscordbi.so
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.AssemblyInfo.cs
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.csproj.CopyComplete
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\ref\MN57-02.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.pdb
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.genruntimeconfig.cache
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.dll.config
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Permissions.dll
+C:\Users\user\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Windows.Extensions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.dll.config
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.deps.json
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.runtimeconfig.json
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.runtimeconfig.dev.json
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\ref\MN57-02.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.pdb
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Iot.Device.Bindings.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.SystemEvents.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.CodeDom.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Configuration.ConfigurationManager.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Device.Gpio.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.Common.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Ports.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Management.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Permissions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Windows.Extensions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\UnitsNet.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Ports.Native.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.CSharp.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.VisualBasic.Core.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.VisualBasic.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.Primitives.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.Registry.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.AppContext.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Buffers.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Concurrent.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Immutable.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.NonGeneric.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Specialized.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.Annotations.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.DataAnnotations.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.Primitives.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.TypeConverter.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Configuration.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Console.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Core.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.Common.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.DataSetExtensions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Contracts.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Debug.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Process.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.StackTrace.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Tools.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.TraceSource.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Tracing.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.Primitives.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Dynamic.Runtime.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Formats.Asn1.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.Calendars.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.Extensions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.Brotli.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.FileSystem.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.ZipFile.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.AccessControl.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.Primitives.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.Watcher.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.IsolatedStorage.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.MemoryMappedFiles.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Pipes.AccessControl.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Pipes.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Expressions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Parallel.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Queryable.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Memory.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Http.Json.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Http.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.HttpListener.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Mail.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.NameResolution.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.NetworkInformation.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Ping.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Primitives.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Requests.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Security.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.ServicePoint.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Sockets.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebClient.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebHeaderCollection.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebProxy.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebSockets.Client.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebSockets.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Numerics.Vectors.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Numerics.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ObjectModel.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.DataContractSerialization.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Uri.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Xml.Linq.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Xml.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.DispatchProxy.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.Lightweight.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Extensions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Metadata.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Primitives.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.TypeExtensions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.Reader.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.ResourceManager.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.Writer.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Extensions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Handles.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.InteropServices.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Intrinsics.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Loader.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Numerics.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Formatters.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Json.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Primitives.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Xml.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.AccessControl.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Claims.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Algorithms.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Cng.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Csp.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Encoding.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Primitives.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Principal.Windows.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Principal.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.SecureString.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ServiceModel.Web.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ServiceProcess.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.CodePages.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.Extensions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encodings.Web.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Json.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.RegularExpressions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Channels.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Overlapped.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Dataflow.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Extensions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Parallel.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Thread.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.ThreadPool.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Timer.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Transactions.Local.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Transactions.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ValueTuple.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Web.HttpUtility.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Web.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Windows.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.Linq.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.ReaderWriter.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.Serialization.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XDocument.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XPath.XDocument.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XPath.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XmlDocument.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XmlSerializer.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\WindowsBase.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\mscorlib.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\netstandard.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.CoreLib.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\createdump
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Compression.Native.a
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Compression.Native.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Native.a
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Native.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Net.Security.Native.a
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Net.Security.Native.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Security.Cryptography.Native.OpenSsl.a
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Security.Cryptography.Native.OpenSsl.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libclrjit.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libcoreclr.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libcoreclrtraceptprovider.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libdbgshim.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libhostfxr.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libhostpolicy.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libmscordaccore.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libmscordbi.so
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.AssemblyInfo.cs
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.csproj.CopyComplete
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\ref\MN57-02.dll
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.pdb
+C:\Users\Murad\Desktop\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.genruntimeconfig.cache
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.dll.config
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.deps.json
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.runtimeconfig.json
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.runtimeconfig.dev.json
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\ref\MN57-02.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.pdb
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Iot.Device.Bindings.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.SystemEvents.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.CodeDom.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Configuration.ConfigurationManager.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Device.Gpio.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.Common.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Ports.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Management.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.ProtectedData.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Permissions.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Windows.Extensions.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\UnitsNet.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Ports.Native.so
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.CSharp.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.VisualBasic.Core.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.VisualBasic.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.Primitives.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.Registry.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.AppContext.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Buffers.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Concurrent.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Immutable.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.NonGeneric.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Specialized.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.Annotations.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.DataAnnotations.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.EventBasedAsync.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.Primitives.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.TypeConverter.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Configuration.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Console.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Core.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.Common.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.DataSetExtensions.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Contracts.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Debug.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.DiagnosticSource.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.FileVersionInfo.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Process.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.StackTrace.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.TextWriterTraceListener.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Tools.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.TraceSource.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Tracing.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.Primitives.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Dynamic.Runtime.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Formats.Asn1.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.Calendars.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.Extensions.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.Brotli.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.FileSystem.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.ZipFile.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.AccessControl.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.DriveInfo.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.Primitives.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.Watcher.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.IsolatedStorage.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.MemoryMappedFiles.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Pipes.AccessControl.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Pipes.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.UnmanagedMemoryStream.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Expressions.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Parallel.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Queryable.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Memory.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Http.Json.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Http.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.HttpListener.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Mail.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.NameResolution.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.NetworkInformation.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Ping.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Primitives.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Requests.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Security.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.ServicePoint.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Sockets.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebClient.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebHeaderCollection.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebProxy.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebSockets.Client.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebSockets.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Numerics.Vectors.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Numerics.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ObjectModel.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.DataContractSerialization.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Uri.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Xml.Linq.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Xml.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.DispatchProxy.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.ILGeneration.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.Lightweight.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Extensions.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Metadata.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Primitives.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.TypeExtensions.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.Reader.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.ResourceManager.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.Writer.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.CompilerServices.Unsafe.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.CompilerServices.VisualC.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Extensions.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Handles.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.InteropServices.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Intrinsics.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Loader.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Numerics.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Formatters.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Json.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Primitives.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Xml.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.AccessControl.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Claims.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Algorithms.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Cng.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Csp.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Encoding.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.OpenSsl.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Primitives.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.X509Certificates.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Principal.Windows.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Principal.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.SecureString.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ServiceModel.Web.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ServiceProcess.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.CodePages.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.Extensions.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encodings.Web.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Json.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.RegularExpressions.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Channels.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Overlapped.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Dataflow.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Extensions.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Parallel.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Thread.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.ThreadPool.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Timer.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Transactions.Local.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Transactions.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ValueTuple.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Web.HttpUtility.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Web.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Windows.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.Linq.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.ReaderWriter.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.Serialization.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XDocument.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XPath.XDocument.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XPath.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XmlDocument.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XmlSerializer.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\WindowsBase.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\mscorlib.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\netstandard.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.CoreLib.dll
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\createdump
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Compression.Native.a
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Compression.Native.so
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Native.a
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Native.so
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Net.Security.Native.a
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Net.Security.Native.so
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Security.Cryptography.Native.OpenSsl.a
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Security.Cryptography.Native.OpenSsl.so
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libclrjit.so
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libcoreclr.so
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libcoreclrtraceptprovider.so
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libdbgshim.so
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libhostfxr.so
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libhostpolicy.so
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libmscordaccore.so
+D:\work\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libmscordbi.so
+D:\work\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.AssemblyInfoInputs.cache
+D:\work\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.AssemblyInfo.cs
+D:\work\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.csproj.CoreCompileInputs.cache
+D:\work\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.csproj.CopyComplete
+D:\work\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.dll
+D:\work\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\ref\MN57-02.dll
+D:\work\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.pdb
+D:\work\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.genruntimeconfig.cache
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.dll.config
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.deps.json
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.runtimeconfig.json
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.runtimeconfig.dev.json
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\MN57-02.pdb
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Iot.Device.Bindings.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.SystemEvents.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.CodeDom.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Configuration.ConfigurationManager.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Device.Gpio.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.Common.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Ports.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Management.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Permissions.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Windows.Extensions.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\UnitsNet.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Ports.Native.so
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.CSharp.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.VisualBasic.Core.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.VisualBasic.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.Primitives.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\Microsoft.Win32.Registry.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.AppContext.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Buffers.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Concurrent.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Immutable.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.NonGeneric.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.Specialized.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Collections.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.Annotations.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.DataAnnotations.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.Primitives.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.TypeConverter.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ComponentModel.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Configuration.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Console.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Core.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.Common.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.DataSetExtensions.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Data.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Contracts.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Debug.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Process.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.StackTrace.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Tools.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.TraceSource.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Diagnostics.Tracing.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.Primitives.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Drawing.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Dynamic.Runtime.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Formats.Asn1.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.Calendars.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.Extensions.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Globalization.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.Brotli.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.FileSystem.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.ZipFile.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Compression.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.AccessControl.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.Primitives.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.Watcher.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.FileSystem.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.IsolatedStorage.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.MemoryMappedFiles.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Pipes.AccessControl.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.Pipes.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.IO.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Expressions.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Parallel.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.Queryable.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Linq.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Memory.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Http.Json.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Http.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.HttpListener.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Mail.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.NameResolution.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.NetworkInformation.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Ping.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Primitives.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Requests.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Security.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.ServicePoint.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.Sockets.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebClient.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebHeaderCollection.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebProxy.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebSockets.Client.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.WebSockets.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Net.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Numerics.Vectors.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Numerics.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ObjectModel.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.DataContractSerialization.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Uri.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Xml.Linq.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.Xml.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.DispatchProxy.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.Lightweight.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Emit.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Extensions.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Metadata.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.Primitives.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.TypeExtensions.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Reflection.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.Reader.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.ResourceManager.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Resources.Writer.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Extensions.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Handles.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.InteropServices.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Intrinsics.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Loader.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Numerics.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Formatters.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Json.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Primitives.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Xml.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Runtime.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.AccessControl.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Claims.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Algorithms.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Cng.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Csp.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Encoding.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Primitives.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Principal.Windows.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.Principal.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.SecureString.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Security.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ServiceModel.Web.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ServiceProcess.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.CodePages.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.Extensions.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encoding.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Encodings.Web.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.Json.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Text.RegularExpressions.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Channels.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Overlapped.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Dataflow.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Extensions.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Parallel.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Tasks.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Thread.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.ThreadPool.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.Timer.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Threading.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Transactions.Local.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Transactions.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.ValueTuple.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Web.HttpUtility.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Web.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Windows.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.Linq.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.ReaderWriter.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.Serialization.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XDocument.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XPath.XDocument.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XPath.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XmlDocument.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.XmlSerializer.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Xml.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\WindowsBase.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\mscorlib.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\netstandard.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\System.Private.CoreLib.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\createdump
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Compression.Native.a
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.IO.Compression.Native.so
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Native.a
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Native.so
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Net.Security.Native.a
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Net.Security.Native.so
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Security.Cryptography.Native.OpenSsl.a
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libSystem.Security.Cryptography.Native.OpenSsl.so
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libclrjit.so
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libcoreclr.so
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libcoreclrtraceptprovider.so
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libdbgshim.so
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libhostfxr.so
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libhostpolicy.so
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libmscordaccore.so
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\bin\Release\net5.0\linux-arm\libmscordbi.so
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.AssemblyInfoInputs.cache
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.AssemblyInfo.cs
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.csproj.CopyComplete
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\ref\MN57-02.dll
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.pdb
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.genruntimeconfig.cache
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\MN57-02.csproj.AssemblyReference.cache
+C:\Users\Murad\Documents\MN57-02 (2)\MN57-02\MN57-02\obj\Release\net5.0\linux-arm\refint\MN57-02.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\MN57-02
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\MN57-02.dll.config
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\MN57-02.deps.json
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\MN57-02.runtimeconfig.json
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\MN57-02.runtimeconfig.dev.json
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\MN57-02.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\MN57-02.pdb
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\Iot.Device.Bindings.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\Microsoft.Win32.SystemEvents.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.CodeDom.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Configuration.ConfigurationManager.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Device.Gpio.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Drawing.Common.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.IO.Ports.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Management.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Security.Cryptography.ProtectedData.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Security.Permissions.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Windows.Extensions.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\UnitsNet.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\libSystem.IO.Ports.Native.so
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\Microsoft.CSharp.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\Microsoft.VisualBasic.Core.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\Microsoft.VisualBasic.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\Microsoft.Win32.Primitives.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\Microsoft.Win32.Registry.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.AppContext.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Buffers.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Collections.Concurrent.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Collections.Immutable.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Collections.NonGeneric.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Collections.Specialized.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Collections.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.ComponentModel.Annotations.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.ComponentModel.DataAnnotations.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.ComponentModel.EventBasedAsync.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.ComponentModel.Primitives.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.ComponentModel.TypeConverter.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.ComponentModel.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Configuration.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Console.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Core.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Data.Common.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Data.DataSetExtensions.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Data.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Diagnostics.Contracts.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Diagnostics.Debug.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Diagnostics.DiagnosticSource.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Diagnostics.FileVersionInfo.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Diagnostics.Process.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Diagnostics.StackTrace.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Diagnostics.Tools.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Diagnostics.TraceSource.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Diagnostics.Tracing.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Drawing.Primitives.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Drawing.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Dynamic.Runtime.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Formats.Asn1.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Globalization.Calendars.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Globalization.Extensions.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Globalization.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.IO.Compression.Brotli.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.IO.Compression.FileSystem.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.IO.Compression.ZipFile.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.IO.Compression.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.IO.FileSystem.AccessControl.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.IO.FileSystem.DriveInfo.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.IO.FileSystem.Primitives.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.IO.FileSystem.Watcher.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.IO.FileSystem.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.IO.IsolatedStorage.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.IO.MemoryMappedFiles.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.IO.Pipes.AccessControl.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.IO.Pipes.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.IO.UnmanagedMemoryStream.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.IO.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Linq.Expressions.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Linq.Parallel.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Linq.Queryable.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Linq.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Memory.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Net.Http.Json.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Net.Http.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Net.HttpListener.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Net.Mail.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Net.NameResolution.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Net.NetworkInformation.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Net.Ping.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Net.Primitives.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Net.Requests.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Net.Security.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Net.ServicePoint.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Net.Sockets.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Net.WebClient.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Net.WebHeaderCollection.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Net.WebProxy.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Net.WebSockets.Client.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Net.WebSockets.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Net.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Numerics.Vectors.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Numerics.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.ObjectModel.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Private.DataContractSerialization.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Private.Uri.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Private.Xml.Linq.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Private.Xml.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Reflection.DispatchProxy.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Reflection.Emit.ILGeneration.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Reflection.Emit.Lightweight.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Reflection.Emit.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Reflection.Extensions.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Reflection.Metadata.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Reflection.Primitives.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Reflection.TypeExtensions.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Reflection.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Resources.Reader.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Resources.ResourceManager.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Resources.Writer.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Runtime.Extensions.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Runtime.Handles.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Runtime.InteropServices.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Runtime.Intrinsics.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Runtime.Loader.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Runtime.Numerics.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Formatters.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Json.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Primitives.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.Xml.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Runtime.Serialization.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Runtime.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Security.AccessControl.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Security.Claims.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Algorithms.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Cng.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Csp.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Encoding.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Security.Cryptography.OpenSsl.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Security.Cryptography.Primitives.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Security.Cryptography.X509Certificates.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Security.Principal.Windows.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Security.Principal.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Security.SecureString.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Security.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.ServiceModel.Web.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.ServiceProcess.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Text.Encoding.CodePages.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Text.Encoding.Extensions.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Text.Encoding.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Text.Encodings.Web.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Text.Json.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Text.RegularExpressions.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Threading.Channels.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Threading.Overlapped.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Dataflow.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Extensions.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Threading.Tasks.Parallel.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Threading.Tasks.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Threading.Thread.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Threading.ThreadPool.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Threading.Timer.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Threading.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Transactions.Local.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Transactions.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.ValueTuple.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Web.HttpUtility.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Web.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Windows.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Xml.Linq.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Xml.ReaderWriter.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Xml.Serialization.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Xml.XDocument.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Xml.XPath.XDocument.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Xml.XPath.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Xml.XmlDocument.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Xml.XmlSerializer.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Xml.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\WindowsBase.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\mscorlib.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\netstandard.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\System.Private.CoreLib.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\createdump
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\libSystem.IO.Compression.Native.a
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\libSystem.IO.Compression.Native.so
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\libSystem.Native.a
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\libSystem.Native.so
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\libSystem.Net.Security.Native.a
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\libSystem.Net.Security.Native.so
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\libSystem.Security.Cryptography.Native.OpenSsl.a
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\libSystem.Security.Cryptography.Native.OpenSsl.so
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\libclrjit.so
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\libcoreclr.so
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\libcoreclrtraceptprovider.so
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\libdbgshim.so
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\libhostfxr.so
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\libhostpolicy.so
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\libmscordaccore.so
+C:\Users\murad\Documents\Проекты\MN57-02 code\bin\Release\net5.0\linux-arm\libmscordbi.so
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Release\net5.0\linux-arm\MN57-02.csproj.AssemblyReference.cache
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Release\net5.0\linux-arm\MN57-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Release\net5.0\linux-arm\MN57-02.AssemblyInfoInputs.cache
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Release\net5.0\linux-arm\MN57-02.AssemblyInfo.cs
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Release\net5.0\linux-arm\MN57-02.csproj.CoreCompileInputs.cache
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Release\net5.0\linux-arm\MN57-02.csproj.CopyComplete
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Release\net5.0\linux-arm\MN57-02.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Release\net5.0\linux-arm\refint\MN57-02.dll
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Release\net5.0\linux-arm\MN57-02.pdb
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Release\net5.0\linux-arm\MN57-02.genruntimeconfig.cache
+C:\Users\murad\Documents\Проекты\MN57-02 code\obj\Release\net5.0\linux-arm\ref\MN57-02.dll

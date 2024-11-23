@@ -1,0 +1,3 @@
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\publish\MN57-02.pdb
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\publish\libSystem.IO.Ports.Native.so
+C:\Users\mirki\Desktop\MN57-02\MN57-02\MN57-02\bin\Release\net5.0\publish\MN57-02
